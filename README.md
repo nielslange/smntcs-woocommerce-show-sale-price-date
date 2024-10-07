@@ -15,15 +15,6 @@ Show WooCommerce sale prices date on shopping page.
 
 Show WooCommerce sale prices date on shopping page.
 
-## Plugin page
-
-You can find the plugin on https://wordpress.org/plugins/smntcs-show-sale-price-date-for-woocommerce/.
-
-## Installation
-
-1. Upload `smntcs-woocommerce-show-sale-price-date` to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the `Plugins` menu in WordPress.
-
 ## Filter
 
 ### Adjust date format:
@@ -44,9 +35,14 @@ function my_custom_sale_date_label() {
 }
 ```
 
-## Contribute
+## Installation
 
-Contributions are always welcome. Simply [create a new issue](https://github.com/nielslange/smntcs-show-sale-price-date-for-woocommerce/issues/new) or [open a pull request](https://github.com/nielslange/smntcs-show-sale-price-date-for-woocommerce/compare).
+1. Upload `smntcs-woocommerce-show-sale-price-date` to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the `Plugins` menu in WordPress.
+
+## Plugin page
+
+You can find the plugin on https://wordpress.org/plugins/smntcs-show-sale-price-date-for-woocommerce/.
 
 ## Changelog
 
