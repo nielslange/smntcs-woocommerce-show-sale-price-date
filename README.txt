@@ -2,8 +2,8 @@
 
 Contributors: 		  	nielslange
 Tags: 				  	WooCommerce Sale Price
-Stable tag:				1.6
-Tested up to: 		  	6.1
+Stable tag:				1.7
+Tested up to: 		  	6.6
 Requires at least: 	  	5.3
 Requires PHP: 		  	5.6
 WC requires at least: 	3.0
@@ -19,14 +19,14 @@ Show WooCommerce sale prices date on shopping page.
 
 == Filter ==
 
-**Adjust date format:**
+=== Adjust date format: ===
 
     add_filter( 'sale_date_format', 'my_custom_sale_date_format' );
     function my_custom_sale_date_format() {
         return 'r';
     }
 
-**Adjust label:**
+=== Adjust label: ===
 
     add_filter( 'sale_date_label', 'my_custom_sale_date_label' );
     function my_custom_sale_date_label() {
@@ -44,20 +44,24 @@ Contributions are always welcome. Simply head over to [Github](https://github.co
 
 == Change log ==
 
+= 1.7 (2024.10.28) =
+
+- Test up to WordPress 6.6
+
 = 1.6 (2022.12.03) =
 
 - [Add support for variable products](https://github.com/nielslange/smntcs-show-sale-price-date-for-woocommerce/issues/58)
-- Test up to WC 7.1
-- Test up to WP 6.1
+- Test up to WooCommerce 7.1
+- Test up to WordPress 6.1
 
 = 1.5 (2022.10.08) =
 
-- Test up to WC 6.9
-- Test up to WP 6.0
+- Test up to WooCommerce 6.9
+- Test up to WordPress 6.0
 
 = 1.4 (2022.01.09) =
 
-- Test up to WP 5.9
+- Test up to WordPress 5.9
 
 = 1.3 (2020.05.09) =
 

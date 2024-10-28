@@ -46,20 +46,24 @@ You can find the plugin on https://wordpress.org/plugins/smntcs-show-sale-price-
 
 ## Changelog
 
+### 1.7 (2024.10.28)
+
+- Test up to WordPress 6.6
+
 ### 1.6 (2022.12.03)
 
 - [Add support for variable products](https://github.com/nielslange/smntcs-show-sale-price-date-for-woocommerce/issues/58)
-- Test up to WC 7.1
-- Test up to WP 6.1
+- Test up to WooCommerce 7.1
+- Test up to WordPress 6.1
 
 ### 1.5 (2022.10.08)
 
-- Test up to WC 6.9
-- Test up to WP 6.0
+- Test up to WooCommerce 6.9
+- Test up to WordPress 6.0
 
 ### 1.4 (2022.01.09)
 
-- Test up to WP 5.9
+- Test up to WordPress 5.9
 
 ### 1.3 (2020.05.09)
 

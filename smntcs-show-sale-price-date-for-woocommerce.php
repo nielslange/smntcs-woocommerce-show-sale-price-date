@@ -4,8 +4,8 @@
  * Plugin URI:           https://github.com/nielslange/smntcs-show-sale-price-date-for-woocommerce
  * Description:          Show WooCommerce sale prices date on shopping page
  * Text Domain:          smntcs-show-sale-price-date-for-woocommerce
- * Version:              1.6
- * Tested up to:         6.1
+ * Version:              1.7
+ * Tested up to:         6.6
  * Requires at least:    5.3
  * Requires PHP:         5.6
  * WC requires at least: 3.0
