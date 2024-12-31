@@ -19,15 +19,13 @@ Show WooCommerce sale prices date on shopping page.
 
 == Filter ==
 
-=== Adjust date format: ===
-
+	// Adjust date format:
     add_filter( 'sale_date_format', 'my_custom_sale_date_format' );
     function my_custom_sale_date_format() {
         return 'r';
     }
 
-=== Adjust label: ===
-
+	// Adjust label:
     add_filter( 'sale_date_label', 'my_custom_sale_date_label' );
     function my_custom_sale_date_label() {
         return 'Valid until';
