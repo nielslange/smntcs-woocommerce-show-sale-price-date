@@ -46,6 +46,10 @@ You can find the plugin on https://wordpress.org/plugins/smntcs-show-sale-price-
 
 ## Changelog
 
+### 1.8 (2024.12.31)
+
+- Test up to WordPress 6.7
+
 ### 1.7 (2024.10.28)
 
 - Test up to WordPress 6.6
